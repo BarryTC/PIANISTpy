@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/pianistpy/__init__.py
+src/pianistpy/df_class.py
+src/pianistpy.egg-info/PKG-INFO
+src/pianistpy.egg-info/SOURCES.txt
+src/pianistpy.egg-info/dependency_links.txt
+src/pianistpy.egg-info/top_level.txt
