@@ -1,5 +1,4 @@
-# Example Package
+# pianistpy Package
 
-This is a simple example package. You can use
-[GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+This is a sample source for the open-sourced Python package pianistpy,
+which is currectly under developement.
